@@ -8,6 +8,8 @@ authors = ["Christopher Singer <christopher.singer.analytics@gmail.com>"]
 python = "^3.10"
 kaggle = "^1.5.12"
 python-slugify = "^5"
+pandas = "^1.4.1"
+numpy = "^1.22.3"
 
 [tool.poetry.dev-dependencies]
 
